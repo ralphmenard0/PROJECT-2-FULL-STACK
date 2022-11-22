@@ -1,5 +1,10 @@
 # 15 Project 2: items List
 
+
+Deployed App URL:
+https://tempi-appthis.herokuapp.com/
+
+
 [![License: MIT](https://github.com/ralphmenard0](https://opensource.org/licenses/MIT)
 
 ## Description
